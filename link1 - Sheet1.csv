@@ -1,0 +1,214 @@
+title,category,link
+Регистрация разработчиков,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/
+Регистрация юридических лиц/индивидуальных предпринимателей,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/registration
+Регистрация физических лиц,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/registration-fl
+Регистрация разработчиков,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/
+Регистрация юридических лиц/индивидуальных предпринимателей,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/registration
+Регистрация физических лиц,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/registration-fl
+Регистрация иностранной компании,Документация разработчиков,rustore.ru/help/developers/developer-account/registration-developer/foreign-company-developer-account
+Как узнать VK ID,Документация разработчиков,rustore.ru/help/developers/developer-account/your-vkid
+Добавление дополнительных разработчиков,Документация разработчиков,rustore.ru/help/developers/developer-account/add-developer
+Добавление пользователей и выбор роли,Документация разработчиков,rustore.ru/help/developers/developer-account/user-roles
+Публикация и проверка приложений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/
+Декларация разрешений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/declare-app-permissions/
+Как декларировать разрешения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/declare-app-permissions/how-to-declare-permissions
+Категории и типы данных,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/declare-app-permissions/data-categories
+Типы разрешений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/declare-app-permissions/permission-types
+Публикация приложений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/
+Как загрузить новую версию приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/new-version-app
+Добавление приложения для устройства ТВ,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/adding-an-app-for-a-tv-device
+Настройка публикации приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/setting-up-publication
+Автоматическая и ручная публикация приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/setting-up-publication/instant-app-publishing
+Отложенная публикация приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/setting-up-publication/delayed-publication
+Поэтапная публикация приложений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/setting-up-publication/step-by-step-publication
+Как работать с ключами подписи APK-файлов,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/apk-signature
+Как удалить карточку приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/card-delete
+Загрузка приложений в формате ААВ,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/upload-aab
+Как выбрать регион для публикации приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/choose-region
+Тестирование приложений,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/testing
+Публикация пр иложений для ОС Аврора,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/app-publication-aurora/
+Сертификат разработчика для ОС Аврора,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/app-publication-aurora/dev-certificate/
+Генерация файла-запроса на сертификат,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/app-publication/app-publication-aurora/dev-certificate/generate-csr
+Платные приложения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/paid-app
+Требования к приложениям,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/requirement-apps
+Рекомендации по ASO,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/aso-recommendations
+Возрастные ограничения,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/age-restrictions
+Инструкция по категориям приложений для RuStore,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/category
+Работа с оценками и отзывами пользователей,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/responses-to-reviews
+Работа с негативными отзывами,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/dealing-negative-reviews
+Google Chrome Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/google-chrome
+Mozilla Firefox Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/firefox
+Safari Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/safari
+Opera Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/opera
+Microsoft Edge Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/microsoft-edge
+Internet Explorer Как собрать HAR-логи,Документация разработчиков,rustore.ru/help/developers/publishing-and-verifying-apps/collect-har-logs/internet-explorer
+Монетизация для юрлиц,Документация разработчиков,rustore.ru/help/developers/monetization/enable-monetization
+Монетизация для самозанятых,Документация разработчиков,rustore.ru/help/developers/monetization/monetization-self-employed
+Монетизация для нерезидентов,Документация разработчиков,rustore.ru/help/developers/monetization/monetization-foreign-company
+Отчёт по монетизации,Документация разработчиков,rustore.ru/help/developers/monetization/monetization-report
+Как создать подписку на приложение,Документация разработчиков,rustore.ru/help/developers/monetization/create-app-subscription
+Как создать платный товар в приложении,Документация разработчиков,rustore.ru/help/developers/monetization/create-paid-product-in-application
+Управление платежами,Документация разработчиков,rustore.ru/help/developers/monetization/manage-payments
+Тестовые платежи,Документация разработчиков,rustore.ru/help/developers/monetization/sandbox/
+Включение тестового режима,Документация разработчиков,rustore.ru/help/developers/monetization/sandbox/enable-test-mode
+Тестирование платежей,Документация разработчиков,rustore.ru/help/developers/monetization/sandbox/testing
+Отключение тестового режима,Документация разработчиков,rustore.ru/help/developers/monetization/sandbox/disable-test-mode
+Тестовые банковские карты,Документация разработчиков,rustore.ru/help/developers/monetization/sandbox/test-bank-cards
+Уведомления на сервер,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/
+Настройка сервера для получения уведомлений,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/server-set-up
+Включение отправки уведомлений,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/enable-notifications
+Отключение отправки уведомлений,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/disable-notifications
+Изменение адреса сервера для получения уведомлений,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/edit-server-name
+Обновление ключа шифрования,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/update-key
+Структура уведомления,Документация разработчиков,rustore.ru/help/developers/monetization/payment-callback/notification
+Приём платежей без установки RuStore,Документация разработчиков,rustore.ru/help/developers/monetization/without-rustore-app
+Реклама и продвижение,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/
+Добавление кнопки «Скачайте из RuStore»,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/rustore-button
+VK реклама в RuStore,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/vk-marketing
+Ссылка на приложение из RuStore в группе ВКонтакте,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/vk-link
+Рекомендации по фичерингу,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/featuring
+Заявки на события,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/events
+Встраивание подборок в сторонние ресурсы,Документация разработчиков,rustore.ru/help/developers/advertising-and-promotion/iframe
+Инструменты,Документация разработчиков,rustore.ru/help/developers/tools/
+RuStore Remote Config,Документация разработчиков,rustore.ru/help/developers/tools/remote-config
+Быстрый старт,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/general
+Принцип работы,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/how-it-works
+SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk
+Kotlin SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/kotlin/6-0-0
+Godot SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/godot/1-0-0
+React Native SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/react/6-0-0
+Flutter SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/flutter/1-0-0
+Unreal SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/unreal/1-0-0
+Defold SDK и конфигурация приложения,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/sdk/defold/1-1-1
+Результаты эксперимента A/B-тестирование,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/ab-testing/experiment-result
+Подробная информация по результатам эксперимента A/B-тестирование,Документация разработчиков,rustore.ru/help/developers/tools/remote-config/ab-testing/experiment-result/detailed-results
+Как установить RuStore,Документация пользователей,rustore.ru/help/users/start/app-install
+Как установить сборку,Документация пользователей,rustore.ru/help/users/start/install-on-tv
+Как установить сборку на ТВ,Документация пользователей,rustore.ru/help/users/start/install-on-tv/install-apk-on-tv
+"Установка, удаление и обновление приложения RuStore для ТВ",Документация пользователей,rustore.ru/help/users/start/install-on-tv/tv-app-interface
+Уведомления в RuStore,Документация пользователей,rustore.ru/help/users/start/notification
+Интерфейс RuStore,Документация пользователей,rustore.ru/help/users/start/interface
+Страница приложения в RuStore,Документация пользователей,rustore.ru/help/users/start/app-page
+Как обновить RuStore,Документация пользователей,rustore.ru/help/users/start/update-rustore-app
+Как изменить тему приложения RuStore,Документация пользователей,rustore.ru/help/users/start/change-theme
+Как использовать «Детский режим»,Документация пользователей,rustore.ru/help/users/start/parental-control
+Авторизация в RuStore,Документация пользователей,rustore.ru/help/users/authorization
+Что можно делать без авторизации,Документация пользователей,rustore.ru/help/users/authorization/without-authorization
+Можно ли доверять RuStore,Документация пользователей,rustore.ru/help/users/authorization/trust-rustore
+Как войти с аккаунтом VK ID,Документация пользователей,rustore.ru/help/users/authorization/login-vk-id
+Что такое VK ID и зачем нужен,Документация пользователей,rustore.ru/help/users/authorization/why-vk-id
+Как авторизоваться через Сбер ID,Документация пользователей,rustore.ru/help/users/authorization/login-sber-id
+Как авторизоваться через Яндекс,Документация пользователей,rustore.ru/help/users/authorization/login-yandex-id
+Как авторизоваться через Тинькофф ID,Документация пользователей,rustore.ru/help/users/authorization/login-tinkoff-id
+Как авторизоваться через Госуслуги,Документация пользователей,rustore.ru/help/users/authorization/login-gosuslugi-id
+Как авторизоваться через Альфа Банк,Документация пользователей,rustore.ru/help/users/authorization/login-alfa-id
+Как выйти из аккаунта в RuStore,Документация пользователей,rustore.ru/help/users/authorization/how-to-get-out
+Управление приложениями,Документация пользователей,rustore.ru/help/users/app-management
+Как найти приложение в RuStore,Документация пользователей,rustore.ru/help/users/app-management/app-search
+Как установить приложение из RuStore,Документация пользователей,rustore.ru/help/users/app-management/app-from-rustore
+Куда RuStore скачивает приложения,Документация пользователей,rustore.ru/help/users/app-management/where-downloads-apps
+Как обновить приложения в RuStore,Документация пользователей,rustore.ru/help/users/app-management/update-app-from-rustore
+Как настроить автообновление приложений в RuStore,Документация пользователей,rustore.ru/help/users/app-management/auto-update
+Как проверить безопасность приложений,Документация пользователей,rustore.ru/help/users/app-management/app-safety
+Сбой обновления приложения через RuStore,Документация пользователей,rustore.ru/help/users/app-management/update-failure
+Как написать отзыв к приложению,Документация пользователей,rustore.ru/help/users/app-management/app-review
+Мини-приложения VK,Документация пользователей,rustore.ru/help/users/app-management/vk-mini-apps
+Покупки и возвраты,Документация пользователей,rustore.ru/help/users/purchases-and-returns
+Как привязать банковскую карту,Документация пользователей,rustore.ru/help/users/purchases-and-returns/link-bank-card
+Как подключить карты VK ID,Документация пользователей,rustore.ru/help/users/purchases-and-returns/vk-connect
+Как подключить карты Сбер ID,Документация пользователей,rustore.ru/help/users/purchases-and-returns/sber-id-connect
+Kotlin/Java Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/kotlin-java/6-0-0
+Вопросы и ответы Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/payment-issues-faq
+История обновлений,Платежи in-app и подписки,rustore.ru/help/sdk/payments/kotlin-java/history
+Kotlin/Java Переход на версию платежей 3.2.0,Платежи in-app и подписки,rustore.ru/help/sdk/payments/kotlin-java/migration/3-2-0-migration
+Unity Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/unity/5-0-2
+Godot Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/godot/5-0-0
+React Native Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/react/5-0-0
+Flutter Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/flutter/6-0-0
+Defold Платежи in-app и подписки,Платежи in-app и подписки,rustore.ru/help/sdk/payments/defold/5-1-1
+Kotlin/Java Push-уведомления,Push-уведомления,rustore.ru/help/sdk/push-notifications/kotlin-java/6-0-0
+Unity Push-уведомления,Push-уведомления,rustore.ru/help/sdk/push-notifications/unity/1-0-0
+Godot Push-уведомления,Push-уведомления,rustore.ru/help/sdk/push-notifications/godot/2-0-0
+Отправка push-уведомлений (API),Push-уведомления,rustore.ru/help/sdk/push-notifications/send-push-notifications
+Отправка push-уведомлений по топикам (API),Push-уведомления,rustore.ru/help/sdk/push-notifications/topic-notifications
+Показ рекламных объявлений в пуш-уведомлениях,Push-уведомления,rustore.ru/help/sdk/push-notifications/ads-push-notification
+Работа с сегментами пользователей (API),Push-уведомления,rustore.ru/help/sdk/push-notifications/work-with-segments-push-api
+Сегменты пользователей,Push-уведомления,rustore.ru/help/sdk/push-notifications/user-segments/work-with-segments-push-api
+Подключение MyTracker и создание сегментов,Push-уведомления,rustore.ru/help/sdk/push-notifications/user-segments/segments-mytracker
+Работа с сегментами (API),Push-уведомления,rustore.ru/help/sdk/push-notifications/user-segments/segments-api
+Универсальные push-уведомления,Push-уведомления,rustore.ru/help/sdk/general-push-notifications
+Условия использования Карты и геосервисы,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/general/terms
+Доступ к сервисам,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/general/access-services
+Сервисы поиска и геокодирования,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/search-and-geocoding-services
+Поиск мест интереса,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/search-and-geocoding-services/search-places-of-interest
+Сервис геокодирования,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/search-and-geocoding-services/geocoding-service
+Подсказчик адреса и мест интереса,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/search-and-geocoding-services/adress-and-places-of-interest-prompter
+Сервисы отображения карт,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/
+Сервисы отображения карт,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/main
+Интерактивная карта,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map
+Интерактивная карта,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/main
+Быстрый старт,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/quick-start
+1. Карта,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/map
+2. Свойства и опции,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/options
+3. Метки и элементы управления,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/labels-controls
+4. География и геометрия,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/geometry
+5. Handlers (обработчики),Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/handlers
+6. Sources (источники),Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/sources
+7. Events (события),Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/events
+8. Использование в React приложениях,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/react
+Описание дополнительных объектов карты,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/interactive-map/additional-objects
+Статичная карта,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/static-map
+Сервис получения карты,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/static-map/main
+Коллекция булавок,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/static-map/collection-of-pins
+Стили карт,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/map-display-services/map-styles
+Сервисы маршрутизации,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services
+Построение маршрута,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services/building-route
+Матрица расстояний,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services/distance-matrix
+Область достижимо сти,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services/reachability-area
+Оптимизация маршрута,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services/route-optimization
+Декодирование ломаной маршрута,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/routing-services/decoding-polyline-route
+Maps Mobile SDK,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/maps-mobile-sdk
+Android,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/maps-mobile-sdk/mobile-sdk-android
+iOS,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/maps-mobile-sdk/mobile-sdk-ios
+Дополнительные сервисы,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services
+Список дополнительных сервисов,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services/main
+Определение высоты,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services/height-determination
+Определение местоположения по IP-адресу,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services/location-determination-by-ip
+Определение часового пояса,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services/determining-the-time-zone
+Определение почтового индекса,Карты и геосервисы,rustore.ru/help/sdk/rustore-geo/additional-services/search-for-a-zip-code
+Метод получения токена авторизации,Авторизация и принципы работы в RuStore API,rustore.ru/help/work-with-rustore-api/api-authorization-token
+Получение данных платежа и подписки с помощью API,Авторизация и принципы работы в RuStore API,rustore.ru/help/work-with-rustore-api/api-subscription-payment
+Получение данных платежа,Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-token-payment-method
+Получение данных подписки,Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-token-subscription-method
+Получение данных подписки (V2),Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-id-payment-method
+Получ ение данных подписки (V3),Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-id-payment-method-v3
+Получение статуса подписки,Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-token-substatus-method
+Подтверждение получения подписки,Получение данных о платеже и подписки с помощью API,rustore.ru/help/work-with-rustore-api/api-subscription-payment/api-token-subget-approve
+Загрузка и публикация приложений с помощью API RuStore,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/
+Создание черновика версии,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/create-draft-version
+Загрузка APK/AAB-файлов,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/apk-file-upload/
+Загрузка APK-файла,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/apk-file-upload/file-upload-apk
+Загрузка AAB-файла,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/apk-file-upload/file-upload-aab
+Загрузка иконки приложения,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/apk-icon-upload
+Загрузка скриншотов,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/apk-screens-upload
+Изменение настроек публикации,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/publishing-change-settings
+Получение статуса версий приложений,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/get-version-status
+Отправка на модерацию черновика версии приложения,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/send-draft-app-for-moderation
+Ручная публикация,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/manual-publishing
+Удаление черновика,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/delete-draft
+Список категорий приложений,Загрузка и публикация приложений с помощью API RuStore,rustore.ru/help/work-with-rustore-api/api-upload-publication-app/app-category-list
+Работа с отзывами с помощью RuStore API,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process
+Общий процесс работы с отзывами,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/feedback-process
+Получение отзывов приложения,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/get-feedback
+Получение отзывов в формате .csv,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/get-csv-feedback
+Оставить ответ на отзыв,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/feedback-answer
+Получение статуса ответа на отзыв,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/get-feedback-status
+Получение статуса ответов на отзывы,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/get-feedbacks-statuses
+Изменение ответа на отзыв,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/change-feedback-answer
+Удаление ответа на отзыв,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/delete-feedback-answer
+Получение рейтинга приложения,Работа с отзывами с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-feedback-process/get-app-rating
+Работа с доступами пользователей с помощью RuStore API,Работа с доступами пользователей с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-access-control
+Отзыв доступа,Работа с доступами пользователей с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-access-control/revoke-access
+Получение информации о выданных доступах по приложению,Работа с доступами пользователей с помощью RuStore API,rustore.ru/help/work-with-rustore-api/api-access-control/access-details
+Работа с платежами в RuStore,Работа с платежами в RuStore,rustore.ru/help/guides/payments
+Как настроить подписание подписание релизных версий приложений,Контроль версий,rustore.ru/help/guides/sign-apk
